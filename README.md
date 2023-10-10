@@ -1,6 +1,6 @@
 # Stock predictor using Recurrent Neural Network
 
-[Link to python code](https://github.com/aryan1113/Beat-The-Market/blob/main/predictor.py)
+[Link to python code](https://github.com/shivansh1808/Beat-The-Market/blob/main/predictor.py)
 
 ### Table of contents
 
