@@ -1,7 +1,5 @@
 # Stock predictor using Recurrent Neural Network
 
-[Link to Final Project Presentation](https://www.canva.com/design/DAFfHN1wFoo/9yFiEDgxaCdU4FkWLmVd4A/edit)
-
 [Link to python code](https://github.com/aryan1113/Beat-The-Market/blob/main/predictor.py)
 
 ### Table of contents
